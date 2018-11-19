@@ -22,4 +22,5 @@ int main(void)
         else if(resultat==5)
             Points=Points-2;
     }
+	return 0;
 }
