@@ -1,4 +1,5 @@
 		// Devoir GL Lashab Bilâl   
+//Exercice43
 #include <ansi_c.h>
 
 int main(void)
