@@ -14,8 +14,13 @@ int main(void)
 	int anneeNaissance;
 	char retour[100];
 
+
+
+printf( "Saisisser votre prenom %s: ",prenom );	
 scanf("%s",prenom);
+printf( "Saisisser votre nom %s: ",nom );
 scanf("%s",nom);
+printf( "Saisisser votre annee de naissance %d: ",anneeNaissance);
 scanf("%d",&anneeNaissance);
 
 age = 2018 - anneeNaissance;
